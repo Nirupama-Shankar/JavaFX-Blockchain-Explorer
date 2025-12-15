@@ -6,13 +6,13 @@ A modern, Java-based blockchain simulator that demonstrates core blockchain conc
 
 ##  Features
 
-- ⛓️ Blockchain implementation from scratch
-- 🔐 Digital signatures for transaction authentication (RSA)
-- 🌳 Merkle Tree for transaction integrity
-- ⛏ Proof-of-Work mining
-- 📈 Dynamic difficulty adjustment with live graph
-- 🚫 Tamper detection and chain validation
-- 🖥 Modern JavaFX UI with dark theme and dashboard layout
+-  Blockchain implementation from scratch
+-  Digital signatures for transaction authentication (RSA)
+-  Merkle Tree for transaction integrity
+-  Proof-of-Work mining
+-  Dynamic difficulty adjustment with live graph
+-  Tamper detection and chain validation
+-  Modern JavaFX UI with dark theme and dashboard layout
 
 ---
 
