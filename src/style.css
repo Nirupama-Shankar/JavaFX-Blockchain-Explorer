@@ -1,0 +1,83 @@
+/* ========== ROOT ========== */
+.root {
+    -fx-background-color: #0f172a;
+    -fx-font-family: "Segoe UI", "Inter", sans-serif;
+}
+
+/* ========== BUTTONS ========== */
+.button {
+    -fx-background-color: #2563eb;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-background-radius: 10;
+    -fx-padding: 8 16;
+}
+
+.button:hover {
+    -fx-background-color: #1d4ed8;
+}
+
+/* ========== LABELS ========== */
+.label {
+    -fx-text-fill: #e5e7eb;
+    -fx-font-size: 13px;
+}
+
+/* ========== LIST VIEW ========== */
+.list-view {
+    -fx-background-color: #020617;
+    -fx-control-inner-background: #020617;
+    -fx-border-color: #1e293b;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+}
+
+.list-cell {
+    -fx-text-fill: #e5e7eb;
+}
+
+/* ========== TEXT AREA ========== */
+.text-area {
+    -fx-control-inner-background: #020617;
+    -fx-text-fill: #e5e7eb;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+}
+
+/* ========== CARDS ========== */
+.card {
+    -fx-background-color: #020617;
+    -fx-border-color: #1e293b;
+    -fx-border-radius: 14;
+    -fx-background-radius: 14;
+    -fx-padding: 12;
+}
+
+/* ========== STATUS COLORS ========== */
+.status-good {
+    -fx-text-fill: #22c55e;
+    -fx-font-weight: bold;
+}
+
+.status-warn {
+    -fx-text-fill: #facc15;
+    -fx-font-weight: bold;
+}
+
+.status-bad {
+    -fx-text-fill: #ef4444;
+    -fx-font-weight: bold;
+}
+
+/* ========== CHART ========== */
+.chart {
+    -fx-background-color: #020617;
+}
+
+.chart-plot-background {
+    -fx-background-color: #020617;
+}
+
+.chart-series-line {
+    -fx-stroke-width: 2px;
+}
